@@ -6,19 +6,19 @@
   🚀 Semana OmniStack 10.0
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-10">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alefemoreira/dev-radar?style=flat-square">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Rocketseat/semana-omnistack-10">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/alefemoreira/dev-radar?style=flat-square">
   
   <a href="https://github.com/Rocketseat/semana-omnistack-10/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rocketseat/semana-omnistack-10">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alefemoreira/dev-radar?style=flat-square">
   </a>
 
   <a href="https://github.com/Rocketseat/semana-omnistack-10/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Rocketseat/semana-omnistack-10">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/alefemoreira/dev-radar?style=flat-square">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=flat-square">
 </p>
 
 <p align="center">
@@ -69,4 +69,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com ♥ a partir da Semana OmniStack 10.0 by Rocketseat :wave: [Entre na comunidade da Rocketseat!](https://discordapp.com/invite/gCRAFhc)
